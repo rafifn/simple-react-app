@@ -1,0 +1,17 @@
+.borderLeftRadiusBig {
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.borderRightRadiusBig {
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.borderRadiusBig {
+  border-radius: 1rem;
+}
+
+.wrapper {
+  margin: 2rem 0;
+}
